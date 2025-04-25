@@ -1,6 +1,7 @@
 {
 	"author": "nasghoi",
 	"name": "fcc-learn-npm-package-json",
+	"description": "I hope one day i can be a MERN stack developer",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

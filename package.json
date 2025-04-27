@@ -1,9 +1,12 @@
 {
 	"author": "nasghoi",
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
+	"version": "1.0.0",
 	"description": "I hope one day i can be a MERN stack developer",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.1.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -12,5 +15,11 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"keywords": [
+		"freecodecamp",
+		"boilerplate",
+		"npm",
+		"MERN"
+	]
 }
